@@ -1,0 +1,25 @@
+{
+  "name": "social-media",
+  "version": "1.0.0",
+  "description": "Share Your Thought",
+  "main": "index.js",
+  "scripts": {
+    "test": "Nest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bimalpodh/Social_Media.git"
+  },
+  "keywords": [
+    "Enhancing"
+  ],
+  "author": "Bimal_babu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bimalpodh/Social_Media/issues"
+  },
+  "homepage": "https://github.com/Bimalpodh/Social_Media#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
